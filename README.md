@@ -1,3 +1,4 @@
+[![Get it from the Microsoft Store](https://get.microsoft.com/images/en-us-dark.svg)](https://apps.microsoft.com/detail/9NDN8V63VXZL)
 # 🚀 PEA OS — Pro Engineer Assistant
 **AI-Powered Engineering Analysis Platform | Next-Gen Technical Ecosystem**
 
