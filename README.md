@@ -128,21 +128,23 @@ Supported workflows include PDF reading, selected-text translation, annotations,
 
 ---
 
-## Official Trailer
 
-Discover the visual concept behind Pro Engineer Assistant.
+## 🎬 Official Trailer
 
-<div align="center">
+**Discover Pro Engineer Assistant in action.**
 
-<a href="assets/pea-trailer.mp4">
-  <img src="assets/1.png" alt="Watch PEA Trailer" width="80%">
-</a>
+Watch our 30-second official product trailer.
 
-### [▶ Watch / Download the Official Trailer](assets/pea-trailer.mp4)
 
-*30-second product trailer*
 
-</div>
+https://github.com/user-attachments/assets/eca2432d-99ef-4eb7-9f5d-f62f8cc8e9a5
+
+
+
+**[⬇ Download Trailer](assets/pea-trailer.mp4)**
+
+**[🚀 Get PEA on Microsoft Store](https://apps.microsoft.com/detail/9NDN8V63VXZL)**
+
 
 ---
 
