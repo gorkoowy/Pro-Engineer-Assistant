@@ -136,7 +136,7 @@ Supported workflows include PDF reading, selected-text translation, annotations,
 
 Explore a modern engineering workspace designed for students and professionals.
 
-https://github.com/user-attachments/assets/a939b4f0-f0f6-460a-89bb-ad2f49651434
+https://github.com/user-attachments/assets/a831fb11-5c54-4d61-814d-fac453f3a8e0
 
 <div align="center">
 
