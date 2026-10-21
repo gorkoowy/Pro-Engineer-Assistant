@@ -1,13 +1,4 @@
-> [!IMPORTANT]
-> **PEA’s major update is coming soon!** 🚀
->
-> **Target release window: October 24–26, 2026 · Microsoft Store**
->
-> The trailer and screenshots preview the upcoming update. The version currently available on the Store is an earlier release.
->
-> **Büyük güncelleme yakında! Hedef yayın aralığı: 24–26 Ekim 2026.** Fragman ve ekran görüntüleri gelecek güncellemeyi tanıtmaktadır; mağazadaki mevcut sürüm daha eskidir.
-
- <div align="center">
+<div align="center">
 
 <img src="assets/pea-logo.png" alt="Pro Engineer Assistant Logo" width="130">
 
